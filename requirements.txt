@@ -7,4 +7,5 @@ seaborn
 plotly
 ipywidgets
 streamlit
+statsmodels
 
