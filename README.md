@@ -2,8 +2,7 @@
 
 # Training Workshop on Computational Psychometrics for EdTech-CP-Summit 2022
 
-In this repository, I included the example codes for doing data wrangling, visualziation and machine learning through jupyter notebooks. Please check out the codes in the codes directory. 
-
+In this repository, I included the slides and example codes (jupyter notebooks) of the pre-conference workshop on computational psychometrics. Please check out the code examples in the codes directory. For questions, please contact <jhao@ets.org>.
 ## Learning Goals of this Workshop (1.5 hour)
 
 * Learn the promises of process data for digital assessments with examples.
