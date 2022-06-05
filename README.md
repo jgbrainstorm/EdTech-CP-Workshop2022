@@ -1,10 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgbrainstorm/EdTech-CP-Workshop2022/HEAD)
 
-# Addressing the Psychometric Challenges from Digital Learning and Assessment: How Computational psychometrics Helps
+# Addressing the Psychometric Challenges from Digital Learning and Assessment: How Computational Psychometrics Helps
 
-> Pre-conference training workshop on computational psychometrics for EdTech-CP-Summit 2022.
-
-In this repository, I included the slides and example codes (jupyter notebooks) of the workshop. Please check out the code examples in the codes directory. For questions, please contact <jhao@ets.org>.
+This is the repository of the pre-conference training workshop on computational psychometrics for EdTech-CP-Summit 2022. You can find the slides and example codes (jupyter notebooks) used in the workshop in the corresponding subdirectories. For questions, please contact <jhao@ets.org>.
 ## Learning Goals of this Workshop (1.5 hour)
 
 * Learn the promises of process data for digital assessments with examples.
